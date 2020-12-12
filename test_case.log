@@ -1,0 +1,171 @@
+2020-12-11 12:17:22,808 - test_signup - INFO - Creating bank account
+2020-12-11 13:01:27,291 - test_signup - INFO - Creating new account with {email}, {first_name}, {last_name}, {password}
+2020-12-11 13:08:03,673 - test_signup - INFO - Creating new account with hV2rQXG@gmail.com, nzI3td7, fLbLeR0, yQErnZ4
+2020-12-11 13:08:19,011 - test_login_existing_user - INFO - Sign-in with existing account credentials ia6x@yahoo.com, 123456789
+2020-12-11 13:08:33,514 - test_login_non_existing_user - INFO - Sign-in with non-existing account credentials user@test.com, 123456789
+2020-12-11 13:08:48,049 - test_library_pages_EN - INFO - Open library page and checking page header in English
+2020-12-11 13:09:03,533 - test_library_pages_UA - INFO - Open library page and checking page header in Ukrainian
+2020-12-11 13:09:18,541 - test_add_bookmark - INFO - Adding a course to the bookmarks
+2020-12-11 13:16:50,082 - test_signup - INFO - Creating new account with 4dcJuHa@gmail.com, O65wGs0, z18D8CC, Me0Y8ff
+2020-12-11 13:17:06,563 - test_login_existing_user - INFO - Sign-in with existing account credentials ia6x@yahoo.com, 123456789
+2020-12-11 13:17:21,132 - test_login_non_existing_user - INFO - Sign-in with non-existing account credentials user@test.com, 123456789
+2020-12-11 13:17:35,720 - test_library_pages_EN - INFO - Open library page Development and expecting page header Development
+2020-12-11 13:18:41,694 - test_signup - INFO - Creating new account with DNTl4TL@gmail.com, 55hZflE, suMDuFO, PmhGAHq
+2020-12-11 13:18:57,724 - test_login_existing_user - INFO - Sign-in with existing account credentials ia6x@yahoo.com, 123456789
+2020-12-11 13:19:12,047 - test_login_non_existing_user - INFO - Sign-in with non-existing account credentials user@test.com, 123456789
+2020-12-11 13:19:26,048 - test_library_pages_EN - INFO - Open library page Development and expecting page header Development
+2020-12-11 13:19:40,887 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-11 13:19:40,887 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-11 13:19:55,571 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-11 13:19:55,571 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-11 13:19:55,571 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-11 13:20:10,584 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 13:20:10,584 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 13:20:10,584 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 13:20:10,584 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 13:20:25,253 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 13:20:25,253 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 13:20:25,253 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 13:20:25,253 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 13:20:25,253 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 13:20:40,023 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 13:20:40,023 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 13:20:40,023 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 13:20:40,023 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 13:20:40,023 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 13:20:40,023 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:20:55,097 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:21:12,961 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 13:23:26,713 - test_add_bookmark - INFO - Adding a course to the bookmarks
+2020-12-11 15:43:36,397 - test_signup - INFO - Creating new account with vOjKevZ@gmail.com, 0rYppeU, 41yzI5m, 3DHL2J1
+2020-12-11 15:43:49,008 - test_login_existing_user - INFO - Sign-in with existing account credentials ia6x@yahoo.com, 123456789
+2020-12-11 15:44:00,916 - test_login_non_existing_user - INFO - Sign-in with non-existing account credentials user@test.com, 123456789
+2020-12-11 15:44:11,732 - test_library_pages_EN - INFO - Open library page Development and expecting page header Development
+2020-12-11 15:44:23,595 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-11 15:44:23,595 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-11 15:44:35,372 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-11 15:44:35,372 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-11 15:44:35,372 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-11 15:44:46,804 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 15:44:46,804 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 15:44:46,804 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 15:44:46,804 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-11 15:44:58,247 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 15:44:58,247 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 15:44:58,247 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 15:44:58,247 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 15:44:58,247 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-11 15:45:09,526 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 15:45:09,526 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 15:45:09,526 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 15:45:09,526 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 15:45:09,526 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 15:45:09,526 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:20,543 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-11 15:45:31,969 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:10:15,436 - test_signup - INFO - Creating a new account with qlojlDR@gmail.com, RNkuEdA, izevDiJ, o9PkXYg
+2020-12-12 12:10:33,424 - test_login_existing_user - INFO - Sign-in with existing account credentials ia6x@yahoo.com, 123456789
+2020-12-12 12:10:49,757 - test_login_non_existing_user - INFO - Sign-in with non-existing account credentials user@test.com, 123456789
+2020-12-12 12:11:05,684 - test_library_pages_EN - INFO - Open library page Development and expecting page header Development
+2020-12-12 12:11:22,196 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-12 12:11:22,196 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-12 12:11:38,409 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-12 12:11:38,409 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-12 12:11:38,409 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-12 12:11:54,761 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:11:54,761 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:11:54,761 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:11:54,761 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:12:11,118 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:12:11,118 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:12:11,118 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:12:11,118 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:12:11,118 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:12:27,326 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:12:27,326 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:12:27,326 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:12:27,326 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:12:27,326 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:12:27,326 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:12:43,903 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:13:00,313 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:15:20,773 - test_add_bookmark - INFO - Adding a to the bookmarks for account ia6x@yahoo.com
+2020-12-12 12:28:19,147 - test_signup - INFO - Creating a new account with hqgHYsw@gmail.com, zsAhVeb, AD7SBDT, tRiF2W2
+2020-12-12 12:28:34,499 - test_login_existing_user - INFO - Sign-in with existing account credentials ia6x@yahoo.com, 123456789
+2020-12-12 12:28:49,260 - test_login_non_existing_user - INFO - Sign-in with non-existing account credentials user@test.com, 123456789
+2020-12-12 12:29:03,617 - test_library_pages_EN - INFO - Open library page Development and expecting page header Development
+2020-12-12 12:29:18,315 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-12 12:29:18,315 - test_library_pages_EN - INFO - Open library page Design and expecting page header Design
+2020-12-12 12:29:33,267 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-12 12:29:33,267 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-12 12:29:33,267 - test_library_pages_EN - INFO - Open library page Business and expecting page header Business
+2020-12-12 12:29:48,277 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:29:48,277 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:29:48,277 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:29:48,277 - test_library_pages_EN - INFO - Open library page Personal and expecting page header Personal Development
+2020-12-12 12:30:03,136 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:30:03,136 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:30:03,136 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:30:03,136 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:30:03,136 - test_library_pages_EN - INFO - Open library page Marketing and expecting page header Marketing
+2020-12-12 12:30:17,970 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:30:17,970 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:30:17,970 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:30:17,970 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:30:17,970 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:30:17,970 - test_library_pages_EN - INFO - Open library page Language and expecting page header Language
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:32,545 - test_library_pages_EN - INFO - Open library page Lifestyle and expecting page header Lifestyle
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:30:47,470 - test_library_pages_EN - INFO - Open library page Arts and expecting page header Arts
+2020-12-12 12:33:02,938 - test_add_bookmark - INFO - Adding a to the bookmarks for account ia6x@yahoo.com
